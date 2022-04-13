@@ -1,0 +1,41 @@
+            h1
+            { 
+                font-family: "Times New Roman", serif;
+                color: limegreen;
+                font-size: 28px;
+            }
+            h2
+            {
+                font-family: "Times New Roman", serif;
+                font-size: 22px;
+                color: limegreen;
+            }
+            body 
+            { 
+                margin-left: 10%;
+                margin-right: 10%;
+                font-size: 14px;
+				font-family: "arial" , sans-serif;
+				text-align: justify;
+            }
+			blockquote
+            {
+                margin-left: 60px;
+            }
+            table
+            {
+                width: 800px;
+                text-align: center;
+                margin: 0 auto;
+                border-collapse: collapse;
+                font-size: 24px;
+            } 
+            thead
+            {
+                background-color: grey;
+                color: white;
+            }
+            th, td
+            {
+                border: 1px solid black;
+            }
